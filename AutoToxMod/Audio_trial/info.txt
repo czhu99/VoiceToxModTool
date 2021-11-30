@@ -1,0 +1,8 @@
+Guild:		MockDiscord#895031450544508988
+Channel:	General#895031450544508992
+Requester:	Raima#7332
+Start time:	2021-10-26T01:13:37.249Z
+Tracks:
+	Raima#7332
+	akhi101#8272
+	r1c3#6894
