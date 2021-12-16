@@ -11,7 +11,7 @@ Store your downloaded audio files in a directory named "/audio-chunks"
 
 Run the Jupyter Notebook code in your main directory. 
 
-Cell 4 of the notebook uses Text-to-Speech API to transcribe your audio files into a file called "textx/csv".
+Cell 4 of the notebook uses Text-to-Speech API to transcribe your audio files into a file called "texts.csv".
 
 Cell 5 uses Perspective API to assign toxicity scores ("TOXICITY", "SEVERE_TOXICITY", "IDENTITY_ATTACK", "INSULT", "PROFANITY", "THREAT", "SEXUALLY_EXPLICIT") to each of these transcripts. This data is saved in a file called "texts_perspective.csv".
 
